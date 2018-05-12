@@ -1,0 +1,47 @@
+_repo: The-King-of-SchnorrersGrotesques-and-Fantasies_38413
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38413-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+description: In this way it bridges a gap from, say, a sholem aleichem to, well, the
+  urban american jewish humor that has had such a profound influence on our culture.
+  But beyond the satirical brilliance and nuance of this book i would like to commend
+  it as simply enormously fun and readable. It's social vision is sophisticated and
+  strangely contemporary and it is funny. Our main character is enormous, ridiculous,
+  ferocious and fascinating, someone you sort of root for in a state of horror, but
+  i love how he is not invincible, and the person to whom he is vulnerable (if you
+  can call it that, probably it is all part of da costa's (our hero's) plans) expresses
+  for me the touch of sweetness that just keeps the humanity of the book afloat. The
+  story is told in tight, marvelously put together chapters that nearly stand on their
+  own. The plot work has that wonderful tight and suprising gearlike quality that
+  is so satisfying to read.
+gutenberg_issued: '2011-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Jewish fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Jews -- England -- Fiction'
+tableOfContents: 'The King of Schnorrers -- The semi-sentimental dragon -- An honest
+  log-roller -- A tragi-comedy of creeds -- The memory clearing house -- Mated by
+  a waiter -- The principal boy -- An odd life -- Cheating the gallows -- Santa Claus
+  -- A rose of the Ghetto -- A double-barrelled ghost -- Vagaries of a viscount --
+  The queen''s triplets -- A successful operation -- Flutter-Duck: a Ghetto grotesque.'
+title: 'The King of Schnorrers: Grotesques and Fantasies'
+url: http://www.gutenberg.org/ebooks/38413
